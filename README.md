@@ -1,6 +1,6 @@
 # Caminhos Dourados
 
-Time criado para participar do [Hackton Haks for Change](https://www.hackforchange.com.br/?utm_source=akna&utm_medium=email&utm_campaign=INST-230920-Hack-for-change) realizado pela [Alura](https://www.alura.com.br/) e [Fiap](https://www.fiap.com.br/) em Parceria com a [Passos Mágicos](https://passosmagicos.org.br/)
+Time criado para participar do [Hackton Hacks for Change](https://www.hackforchange.com.br/?utm_source=akna&utm_medium=email&utm_campaign=INST-230920-Hack-for-change) realizado pela [Alura](https://www.alura.com.br/) + [Fiap](https://www.fiap.com.br/) em Parceria com a [Passos Mágicos](https://passosmagicos.org.br/)
 
 ## Integrantes
 
@@ -12,13 +12,21 @@ Time criado para participar do [Hackton Haks for Change](https://www.hackforchan
 
 ## A Solução
 
-Abaixo vemos o diagrama da modelagem básica.
+O objetivo primordial do projeto é criar um ambiente de participação cidadã e
+colaboração ativa entre os moradores de comunidades e o governo municipal. Esta plataforma
+visa empoderar os moradores, oferecendo-lhes uma voz direta na melhoria das condições de
+suas próprias comunidades, enquanto fornece ao governo municipal uma ferramenta eficaz
+para identificar, priorizar e resolver problemas locais de forma ágil e eficiente.
 
-![Diagrama](Diagram/caminho_dourado_model.svg)
+## Modelagem
+
+Podemos ver abaixo a estrutura relacional em nosso modelo lógico.
+
+![Diagrama](Diagram/ModelagemCaminhosDourados.svg)
 
 ## Repositórios
 
- * [Back-end]()
+ * [Back-end](https://github.com/GoldenPaths/caminhos-dourados-backend)
  * [Front-End](https://github.com/GoldenPaths/caminhos-dourados-frontend)
 
 ## Stack
