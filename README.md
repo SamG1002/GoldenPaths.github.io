@@ -12,11 +12,13 @@ Time criado para participar do [Hackton Hacks for Change](https://www.hackforcha
 
 ## A Solução
 
-O objetivo primordial do projeto é criar um ambiente de participação cidadã e
-colaboração ativa entre os moradores de comunidades e o governo municipal. Esta plataforma
-visa empoderar os moradores, oferecendo-lhes uma voz direta na melhoria das condições de
-suas próprias comunidades, enquanto fornece ao governo municipal uma ferramenta eficaz
-para identificar, priorizar e resolver problemas locais de forma ágil e eficiente.
+* [APP do Caminhos Dourados](https://caminhos-dourados-frontend.vercel.app/)
+
+O objetivo primordial do projeto inovador é criar um ambiente de participação cidadã e 
+colaboração ativa entre os moradores de comunidades e apoiar pequenas empresas locais, 
+visando  empoderar os moradores, oferecendo-lhes uma voz direta na melhoria das condições 
+de suas próprias comunidades e ao mesmo tempo em que oferece oportunidades educacionais 
+práticas para os alunos da instituição Passos Mágicos e engajamento para as empresas.
 
 ## Modelagem
 
