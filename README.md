@@ -12,7 +12,7 @@ Time criado para participar do [Hackton Hacks for Change](https://www.hackforcha
 
 ## A Solução
 
-* [APP do Caminhos Dourados](https://caminhos-dourados-frontend.vercel.app/)
+* [Aplicativo Caminhos Dourados](https://caminhos-dourados-frontend.vercel.app/)
 
 O objetivo primordial do projeto inovador é criar um ambiente de participação cidadã e 
 colaboração ativa entre os moradores de comunidades e apoiar pequenas empresas locais, 
@@ -20,12 +20,28 @@ visando  empoderar os moradores, oferecendo-lhes uma voz direta na melhoria das 
 de suas próprias comunidades e ao mesmo tempo em que oferece oportunidades educacionais 
 práticas para os alunos da instituição Passos Mágicos e engajamento para as empresas.
 
-## Modelagem
+## Prototipação e Modelagem
 
-Podemos ver abaixo a estrutura relacional em nosso modelo lógico.
-
+*    Podemos ver abaixo a estrutura relacional em nosso modelo lógico.
 ![Diagrama](Diagram/ModelagemCaminhosDourados.svg)
 
+*    Também fizemos um Prototipo no figma no qual modelamos como nossas telas ganharão vida:
+![Prototipo](Diagram/PrototipoFigma.png)()
+[Link de visualização do Figma](https://www.figma.com/file/apJwJTP7yu2M2G0ndZSjmm/Projeto?type=design&node-id=0%3A1&mode=design&t=l1pvgBHJ4PZOyRXY-1)
+
+## Hospedagem
+Foram feitas as hospedagens da seguinte maneira:
+
+*    O Banco de Dados foi publicado na nuvem Azure como um Database Server como mostrado abaixo:
+     ![Banco de Dados na Nuvem](Diagram/BancoAzure.png)
+
+*    Já nossa API feita em C#, hospedamos em um Web App do Azure como ilustrado:
+     ![API Back-end](Diagram/APIAzure.png)
+
+*   E para complemetar nosso lindissimo Front-end foi hospedado utilizando o Vercel:
+     [Aplicativo Caminhos Dourados](https://caminhos-dourados-frontend.vercel.app/)
+
+     
 ## Repositórios
 
  * [Back-end](https://github.com/GoldenPaths/caminhos-dourados-backend)
