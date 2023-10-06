@@ -26,7 +26,8 @@ práticas para os alunos da instituição Passos Mágicos e engajamento para as 
 ![Diagrama](Diagram/ModelagemCaminhosDourados.svg)
 
 *    Também fizemos um Prototipo no figma no qual modelamos como nossas telas ganharão vida:
-![Prototipo](Diagram/PrototipoFigma.png)()
+![Prototipo](Diagram/PrototipoFigma.png)
+
 [Link de visualização do Figma](https://www.figma.com/file/apJwJTP7yu2M2G0ndZSjmm/Projeto?type=design&node-id=0%3A1&mode=design&t=l1pvgBHJ4PZOyRXY-1)
 
 ## Hospedagem
